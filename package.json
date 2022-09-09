@@ -1,7 +1,7 @@
 {
   "name": "ts-to-lower-case",
-  "version": "1.0.1",
-  "description": "TS: toLowerCase with type",
+  "version": "1.0.2",
+  "description": "A toLowerCase/toUpperCase with type",
   "main": "./dist/cjs/main.js",
   "module": "./dist/csm/main.js",
   "scripts": {
