@@ -1,7 +1,7 @@
 {
-  "name": "the-node-dir",
-  "version": "0.0.4",
-  "description": "文件夹复制",
+  "name": "ts-to-lower-case",
+  "version": "1.0.0",
+  "description": "TS: toLowerCase with type",
   "main": "./dist/cjs/main.js",
   "module": "./dist/csm/main.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WildXBird/nodeDir.git"
+    "url": "git+https://github.com/WildXBird/TStoLowerCase.git"
   },
   "files": [
     "index.js",
@@ -22,9 +22,9 @@
   "author": "WildXBird",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/WildXBird/nodeDir/issues"
+    "url": "https://github.com/WildXBird/TStoLowerCase/issues"
   },
-  "homepage": "https://github.com/WildXBird/nodeDir#readme",
+  "homepage": "https://github.com/WildXBird/TStoLowerCase#readme",
   "devDependencies": {
     "@types/node": "^18.0.0",
     "esbuild": "^0.14.47",
